@@ -1,3 +1,6 @@
+// codigo feito com a ajuda de @EduCamelo (GitHub)
+
+
 import javax.swing.JOptionPane;
 import java.util.function.Function;
 
